@@ -1,10 +1,12 @@
 ### Hi
--Academics:
-  -BTech IT sophomore at NSUT, Dwarka
--How to reach me:
- -[Linkedin](https://www.linkedin.com/in/anubhvag/)
+Academics:
+  
+  BTech IT sophomore at NSUT, Dwarka
+
+How to reach me:
  
- BTech IT sophomore at NSUT, Dwarka
+ [Linkedin](https://www.linkedin.com/in/anubhvag/)
+ 
 
 [![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=anubhvv)](https://github.com/anubhvv/github-readme-stats)
 <!--
