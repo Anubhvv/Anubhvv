@@ -1,11 +1,6 @@
 ### Hi
-Academics:
-  
-  BTech IT sophomore at NSUT, Dwarka
-
-How to reach me:
- 
- [Linkedin](https://www.linkedin.com/in/anubhvag/)
+- 🤔 I’m looking for help with getting started with open source.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubhvag/)
  
 
 [![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=anubhvv)](https://github.com/anubhvv/github-readme-stats)
