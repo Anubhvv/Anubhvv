@@ -1,8 +1,8 @@
 ### Hi
-Academics:
-  BTech IT sophomore at NSUT, Dwarka
-How to reach me:
- [Linkedin](https://www.linkedin.com/in/anubhvag/)
+-Academics:
+  -BTech IT sophomore at NSUT, Dwarka
+-How to reach me:
+ -[Linkedin](https://www.linkedin.com/in/anubhvag/)
  
  BTech IT sophomore at NSUT, Dwarka
 
