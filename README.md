@@ -1,5 +1,5 @@
 ### Hi
-- 🤔 I’m looking for help with getting started with open source.
+- 🤔 I’m looking for help in getting started with open source.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubhvag/)
  
 
