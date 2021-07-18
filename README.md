@@ -1,5 +1,4 @@
 ### Hi
-- 🤔 I’m looking for help in getting started with open source.
 - 🎓 I'm pursuing Bachelors in Technology from NSUT, Delhi, majoring in Information Technology (IT), graduating in 2023.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubhvag/)
  
