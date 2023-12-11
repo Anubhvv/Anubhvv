@@ -1,5 +1,5 @@
 ### Hi
--🔭 I’m currently working on full stack Android development
+- 🔭 I’m currently working on full stack Android development
 - 🎓 Graduated in Technology from NSUT, Delhi, majoring in Information Technology (IT) 2023
 - 💬 Ask me about philosophy.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubhvag/)
