@@ -1,5 +1,7 @@
 ### Hi
-- 🎓 I'm pursuing Bachelors in Technology from NSUT, Delhi, majoring in Information Technology (IT), graduating in 2023.
+-🔭 I’m currently working on full stack Android development
+- 🎓 Graduated in Technology from NSUT, Delhi, majoring in Information Technology (IT) 2023
+- 💬 Ask me about philosophy.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubhvag/)
  
 
@@ -9,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on full stack Android development
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
